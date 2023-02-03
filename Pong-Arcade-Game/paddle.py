@@ -18,6 +18,8 @@ class Paddle(Turtle):
 
 
 
+# we want bounce logic in the paddle - distance logic- less than a certain ammount 
+
 
 
 
