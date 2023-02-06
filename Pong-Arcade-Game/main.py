@@ -22,6 +22,7 @@ screen.onkey(right_paddle.go_down, "Down")
 screen.onkey(left_paddle.go_up, "w")
 screen.onkey(left_paddle.go_down, "s")
 
+    
 game_is_on = True
 
 while game_is_on:
